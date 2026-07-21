@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+Pillow
+numpy
+matplotlib
+PyMuPDF
+sentence-transformers
+chromadb
+faiss-cpu
